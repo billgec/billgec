@@ -14,4 +14,3 @@
 ![JSF](https://img.shields.io/badge/JSF-007396?style=flat&logo=jakartaee&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Views](https://komarev.com/ghpvc/?username=billgec&color=blue&style=flat&label=Profile+Views)
